@@ -1,0 +1,17 @@
+{
+  "name": "Family_Laihonen_Django",
+  "authors": [
+    "Petri Laihonen"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "tether": "^1.2.0",
+    "bootstrap": "4.0.0-alpha.2"
+  }
+}

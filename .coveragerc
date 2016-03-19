@@ -1,0 +1,3 @@
+[run]
+include = Family_Laihonen_Django/*
+omit = *migrations*, *tests*
